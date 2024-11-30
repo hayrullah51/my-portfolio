@@ -36,10 +36,16 @@ Open the index.html file in your browser to view the website.
 Contact Me
 Feel free to reach out if you have any questions or collaboration opportunities:
 
-Email: h.dede515151@gmail.com
-Twitter: @HAYRULLAH_DEDES
-LinkedIn: Hayrullah DEDELER
-GitHub: hayrullah51
+## **Contact Me**
+Feel free to reach out if you have any questions or collaboration opportunities:
+
+- **Email**: [h.dede515151@gmail.com](mailto:h.dede515151@gmail.com)
+- **Twitter**: [@HAYRULLAH_DEDES](https://x.com/HAYRULLAH_DEDES)
+- **GitHub**: [hayrullah51](https://github.com/hayrullah51)
+- **Instagram**: [technodev365_](https://www.instagram.com/technodev365_/?hl=tr)
+- **LinkedIn**: [Hayrullah DEDELER](https://www.linkedin.com/in/hayrullahdedeler/)
+- **Medium**: [@h.dede515151](https://medium.com/@h.dede515151)
+
 Future Improvements
 Add blog functionality to share insights and experiences.
 Enhance form handling with backend integration for more advanced features.
