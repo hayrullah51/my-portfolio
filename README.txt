@@ -1,33 +1,48 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+My Portfolio Website
+Welcome to my portfolio! This project is a showcase of my skills, experience, and projects as a Software Test Engineer. The site is designed to be simple, responsive, and user-friendly.
 
+Features
+📄 About Me: Learn more about my background and professional journey.
+⚙️ What I Do: Explore my skills in:
+Test Automation
+Manual Testing
+API Testing
+Performance Testing
+Collaboration
+Continuous Learning
+📬 Get in Touch: Use the contact form to reach out to me directly or connect via social media.
+Live Demo
+You can view the live site here:
+hayrullah51.github.io/my-portfolio
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+Technologies Used
+This project is built using:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+HTML5: For the structure and content.
+CSS3: For styling and layout.
+Font Awesome: For icons.
+Formspree: For contact form handling.
+GitHub Pages: For hosting the website.
+How to Run Locally
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/hayrullah51/my-portfolio.git
+Navigate to the project directory:
+bash
+Copy code
+cd my-portfolio
+Open the index.html file in your browser to view the website.
+Contact Me
+Feel free to reach out if you have any questions or collaboration opportunities:
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Email: h.dede515151@gmail.com
+Twitter: @HAYRULLAH_DEDES
+LinkedIn: Hayrullah DEDELER
+GitHub: hayrullah51
+Future Improvements
+Add blog functionality to share insights and experiences.
+Enhance form handling with backend integration for more advanced features.
+Improve accessibility for a better user experience.
+License
+This project is licensed under the MIT License.
